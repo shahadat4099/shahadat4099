@@ -6,7 +6,6 @@
 - 📫 Reach me at: shahadat@bu.edu
 - 💬 Ask me about: Aeroplanes, Exotic Snakes, Bioinfo too
 - 🌎 Google Scholar: https://scholar.google.com/citations?user=k357vXMAAAAJ&hl=en
-- 🧪 Fun fact: I worked as a COO with the first biotechnology-based student network in Bangladesh 🇧🇩 and enjoy exploring the interface between biotech and young
 - 😄 Pronouns: he/him
 - ⚡ Personal motto: Valar Morghulis
 
