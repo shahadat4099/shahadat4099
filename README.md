@@ -6,7 +6,7 @@
 - 📫 Reach me at: shahadat@bu.edu
 - 💬 Ask me about: Aeroplanes, Exotic Snakes, Bioinfo too
 - 🌎 Google Scholar: https://scholar.google.com/citations?user=k357vXMAAAAJ&hl=en
-- 😄 Pronouns: he/him
+- Pronouns: he/him
 - ⚡ Personal motto: Valar Morghulis
 
 <!---
