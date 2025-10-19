@@ -1,6 +1,5 @@
 -  Hi, I’m Shahadat
 -  Bioinformatics PhD Student at Boston University
--  Graduate Student at Siggers Lab
 -  Research interests: Gene Regulation, Spatial Transcriptomics, Systems Biology, Machine Learning, Tool Development.
 -  MSc & BSc in Biotechnology and Genetic Engineering, Noakhali Science and Technology University, Bangladesh
 -  Reach me at: shahadat@bu.edu
